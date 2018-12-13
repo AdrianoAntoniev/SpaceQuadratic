@@ -13,6 +13,6 @@ as teclas a, b e c para colher os coeficientes, ou seja, o jogador pressiona a e
 o mesmo inserir um valor numérico. O tiro da nave do jogador só torna-se "parabólico" após a inserção dos
 três valores). 
     
-    
+Obs.: diagrama de classes criado automaticamente com o plugin Object Aid <http://www.objectaid.com/update/current>.    
 
 
