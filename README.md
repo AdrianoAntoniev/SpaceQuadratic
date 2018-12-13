@@ -1,8 +1,8 @@
 # SpaceQuadratic
     
-    Criado em Java (1.8.0_191) e LibGDX (1.5.4).
+Criado em Java (1.8.0_191) e LibGDX (1.5.4).
     
-    Jogo criado para a disciplina Trabalho de Graduação 2 da FATEC ZL. Na fase inicial, o jogo 
+Jogo criado para a disciplina Trabalho de Graduação 2 da FATEC ZL. Na fase inicial, o jogo 
 apresenta a mecânica semelhante a "Space Invaders" (daí o nome do projeto), com asteróides e 
 uma nave que dispara tiros controlada pelo jogador. No final da fase, existe um Boss, 
 e no início é bastante fácil desferir dano no mesmo, já que não há nada na tela exceto os dois personagens.
